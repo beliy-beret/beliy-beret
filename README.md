@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Stanislav (Stas)
-- 👀 I'm interested in Front-ned development. I'm working with React, Rudux, TypeScript, Parcel, Webpack
+- 👀 I'm Frontend developer. I'm work with React, Redux(Toolkit), TypeScript, Storybook, MUI, Ant Desing.
 - 🌱 I'm currently learning NextJS 
 - 💞️ I'm looking for job.
 - 📫 You can contact me:<br>
