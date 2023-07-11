@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Stanislav (Stas)
 - 👀 I'm Frontend developer. I'm work with React, Redux(Toolkit), TypeScript, Storybook, MUI, Ant Desing.
-- 🌱 I'm currently learning NextJS 
+- 🌱 I'm currently learning Angular
 - 💞️ I'm looking for job.
 - 📫 You can contact me:<br>
   vk: <a href='https://vk.com/id81696211' target="_blank">Skorobogatov Stanislav</a><br>
